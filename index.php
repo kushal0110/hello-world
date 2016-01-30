@@ -13,7 +13,8 @@
  */
 define('WP_USE_THEMES', true);
 
-echo 'Test Tag';
+echo 'Test issue';
 
+echo 'Test tag';
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
